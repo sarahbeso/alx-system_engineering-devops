@@ -1,0 +1,2 @@
+#!/bin/bash
+mhdir -m 751 my_dir
