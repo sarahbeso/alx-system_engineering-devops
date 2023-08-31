@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-
-=======
 #!/bin/bash
-su betty 
->>>>>>> end
+su betty
