@@ -1,2 +1,2 @@
-ploz@vultrvups:~/tmp/aa/hq$ find~/tmp/ -empty
-
+#!/bin/bash
+find . -empty -printf '%f\n'
